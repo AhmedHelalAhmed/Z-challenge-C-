@@ -1,0 +1,39 @@
+n=3
+* * *            
+  *               i=2, j=2  ====> i=j      count=5
+* * *
+n*2-i/2=6-1=5
+
+
+i*2-1
+6-1=5
+
+* * * *             n=4 
+    *               i=2,j=3       count=7
+  *                 i=3,j=2       count=10
+* * * *
+8-3+2
+2*2-1=3
+n*2+i 
+n*2-i/2=4*2-2/2=8-1=7
+n*2-i/2=4*2-3/2
+
+j=n-i+1
+j+n=count
+
+
+* * * * *           n=5
+      *             i=2, j=4  count=9
+    *               i=3, j=3  count=13
+  *                 i=4, j=2  count=17
+* * * * *
+
+
+
+count and i  
+
+
+
+every time it increase with 4 
+
+it starts with (n*2-1)
